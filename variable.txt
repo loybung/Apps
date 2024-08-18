@@ -40,12 +40,25 @@
 {precip:in} - ปริมาณน้ำฝน | หน่วย inches in | 0.14
 {gust:kph} - ลมกระโชก | หน่วย kilometer per hour | 10.6
 {gust:mph} - ลมกระโชก | หน่วย miles per hour | 6.6
+{feelslike:c} - อุณหภูมิความรู้สึก | หน่วย celcius °C | 20.7
+{feelslike:f} - อุณหภูมิความรู้สึก | หน่วย fahrenheit °F | 69.3
+{windchill:c} - อุณหภูมิลมหนาว | หน่วย celcius °C | 20.7
+{windchill:f} - อุณหภูมิลมหนาว | หน่วย fahrenheit °F | 69.3
+{heatindex:c} - ดัชนีความร้อน | หน่วย celcius °C | 20.7
+{heatindex:f} - ดัชนีความร้อน | หน่วย fahrenheit °F | 69.3
+{dewpoint:c} - จุดน้ำค้าง | หน่วย celcius °C | 20.6
+{dewpoint:f} - จุดน้ำค้าง | หน่วย fahrenheit °F | 69.1
 {vis:km} - ทัศนวิสัย | หน่วย kilometer | 4.5
 {vis:mi} - ทัศนวิสัย | หน่วย miles | 2.0
 {humidity} - ความชื้น | หน่วย percentage % | 52
 {cloud} - เมฆ | หน่วย percentage % | 0
 {uv} - ค่า UV | หน่วย Index | 1
-{pm2.5} - ค่าฝุ่น PM 2.5 | หน่วย μg/m3 | 55.5
+{co} - คาร์บอนมอนอกไซด์ | หน่วย μg/m3 | 260.4
+{no2} - ไนโตรเจนไดออกไซด์ | หน่วย μg/m3 | 1.8
+{o3} - โอโซน | หน่วย μg/m3 | 0.9
+{so2} - ซัลเฟอร์ไดออกไซด์ | หน่วย μg/m3 | 0.2
+{pm2.5} - ค่าฝุ่น PM 2.5 | หน่วย μg/m3 | 4.3
+{pm10} - ค่าฝุ่น PM 10 | หน่วย μg/m3 | 4.8
 
 - ระบบ -
 {ping} - ค่าปิง | หน่วย ms | 99
